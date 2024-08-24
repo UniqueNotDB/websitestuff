@@ -1,0 +1,36 @@
+Aimbot:
+- Enable/Disable.
+- Prediction.
+- Show Fov.
+- Filled Fov.
+- Fov Arros.
+- Weapon Configs (AR, SHOTGUNS, SMGS, SNIPERS, OTHER).
+- Colors (FOV CIRCLE, FILLED FOV, ARROWS).
+- Aimbot Bone (HEAD, NECK, CHEST, PELVIS).
+- Aimbot Key (DEFAULT: RIGHT MOUSE BUTTON).
+
+Triggerbot:
+- Enable/Disable.
+- Triggerbot Key (DEFAULT: T).
+- Shotgun Only.
+- Triggerbot Delay In MS (Min: 0, Max: 1000).
+- Ignore Bots.
+- Ignore Knocked.
+
+Visuals:
+- Enable/Disable.
+- Box (Cornered, Filled).
+- Skeleton.
+- Weapon.
+- Distance.
+- Snaplines.
+- Ignore Bots.
+- Colors (Box, Box Invisable, Filled Box, Skeleton, Skeleton Invisable, Snaplines, Text).
+
+Misc:
+- Visable Check.
+- Ignore Teammates.
+- Max Distance (Min: 100, Max: 1500).
+- Crosshairs (Hit Marker, Cross, Cross 2, C2 Dot, Dot, Nazi).
+- Colors (Crosshair), All except for Nazi.
+- Save/Load Config System.
